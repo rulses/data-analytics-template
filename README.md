@@ -1,6 +1,6 @@
 # Data Analytics Template
-3250 Homework 5 Template
-This is a sample directory 
+3250 Homework 5 Template    
+This is a sample directory    
 
 **Section 1**
 - data 1
