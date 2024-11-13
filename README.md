@@ -14,6 +14,6 @@ results - outputs
 --- 
 
 ## Change log
-- 2024-11-12    mwc     Created template
-- 2024-11-13    mwc     Added new items
-- 2024-11-14    mwc     Deleted new items
+- 2024-11-12    ru     Created template
+- 2024-11-13    ru     Added new items
+- 2024-11-14    ru     Deleted new items
