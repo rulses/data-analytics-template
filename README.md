@@ -1,27 +1,19 @@
 # Data Analytics Template
-Template for data analytics projects using Python notebooks.   
-In this repository the following folders and documents will be found:   
-- data  
-    - This is where data sets being used are stored.  
-    - raw_data  
-        - A subfolder within data, where any uncleaned data will be stored.  
-- notebooks  
-    - This is where Python notebooks being used are stored.  
-    - outputs  
-        - A subfolder within notebooks, where any analysis outputs such as charts and graphs will be stored.  
-  
+assets - anything that is not code
+code - python and ipynb
+data - raw and cleaned data
+results - outputs 
 
-**Section 1**
-- data 1
-- data 2 
-- data 3
 
-**Section 2**
-- data 1
-- data 2 
-- data 3
+## To do list
+[ ] item 1
+[x] item 2
+[ ] item 3
+[ ] item 4
 
-**Tasks**    
-[ ] task 1   
-[ ] task 2   
-[ ] task 3    
+--- 
+
+## Change log
+- 2024-11-12    mwc     Created template
+- 2024-11-13    mwc     Added new items
+- 2024-11-14    mwc     Deleted new items
