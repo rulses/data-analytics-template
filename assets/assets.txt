@@ -1,0 +1,1 @@
+Any additional resources and documents for the project will be found in this folder

@@ -1,8 +1,8 @@
 # Data Analytics Template
-assets - anything that is not code
-code - python and ipynb
-data - raw and cleaned data
-results - outputs 
+assets - anything that is not code    
+code - python and ipynb    
+data - raw and cleaned data   
+results - outputs    
 
 
 ## To do list
